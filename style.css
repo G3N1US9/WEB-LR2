@@ -35,7 +35,7 @@
 }
 
 .image[name="image111"] {
-  top: 600px;
+  top: 550px;
   left: 0;
   right:  90px;
   z-index: 1;
@@ -44,7 +44,7 @@
 }
 
 .image[name="image222"] {
-  top: 610px;
+  top: 560px;
   left: 100px;
   right: 20px;
   z-index: 2;
@@ -53,7 +53,7 @@
 }
 
 .image[name="image333"] {
-  top: 620px;
+  top: 570px;
   left: 240px;
   right: 20px;
   z-index: 3;
